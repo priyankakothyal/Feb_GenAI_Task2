@@ -1,1 +1,5 @@
-# Feb_GenAI_Task2
+## Setup Instructions
+
+python -m venv venv  
+venv\Scripts\activate  
+pip install -r requirements.txt
